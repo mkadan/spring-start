@@ -1,0 +1,3 @@
+application:
+  config-string:                        YYY
+  retry-count:                          2

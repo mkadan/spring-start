@@ -1,0 +1,4 @@
+logging:
+  level:
+    root:   INFO
+    de.apollon.newmedia.newsquare.live.importer.aaz: DEBUG

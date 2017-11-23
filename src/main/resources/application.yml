@@ -1,0 +1,8 @@
+application:
+  config-string:                        foo
+  retry-count:                          5
+
+logging:
+  level:
+    root:                               WARN
+    de.apollon.newmedia.newsquare.live.importer.aaz: INFO
